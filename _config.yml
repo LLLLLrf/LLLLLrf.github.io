@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ruofan Liao / Personal Web Page"
+title                    : "Ruofan Liao - Personal Web Page"
 title_separator          : "-"
 name                     : &name "Ruofan Liao"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile_lrf.jpg"
   name             : "Ruofan Liao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master degree student of Peking University"
   location         : "Shenzhen"
   employer         : "Peking University"
   uri              : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "LLLLLrf"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
