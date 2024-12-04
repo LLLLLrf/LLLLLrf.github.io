@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 Education
 ======
 * M.S. in China, Peking University, 2025
